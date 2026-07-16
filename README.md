@@ -20,15 +20,8 @@ A Linux-based security monitoring project that uses OpenCanary, Python, geolocat
 
 **Technologies:** Python, Kali Linux, OpenCanary, Ollama, JSON, Watchdog, REST APIs
 
-[View the project](PASTE-INTRUSION-PROJECT-URL-HERE)
+[View the project](https://github.com/ktakyi/ai-intrusion-detection)
 
-### JavaFX Notepad Application
-
-A desktop text editor created with Java and JavaFX. The application includes file opening and saving, text editing, word counting, and drawing functionality.
-
-**Technologies:** Java, JavaFX, IntelliJ IDEA
-
-[View the project](PASTE-NOTEPAD-URL-HERE)
 
 ### Home Network Lab
 
@@ -36,7 +29,6 @@ A networking project focused on device connectivity, IP addressing, network conf
 
 **Technologies:** TCP/IP, DNS, DHCP, LAN/WAN, Network Troubleshooting
 
-[View the project](PASTE-NETWORK-PROJECT-URL-HERE)
 
 ## Technical Skills
 
@@ -54,6 +46,7 @@ A networking project focused on device connectivity, IP addressing, network conf
 - DNS and DHCP
 - LAN/WAN fundamentals
 - Wireshark
+- Network Security
 - Linux security
 - Access control
 - CIA triad
