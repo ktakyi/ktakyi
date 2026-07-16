@@ -1,1 +1,83 @@
-# KwakuT
+# Hi, I'm Kwaku Takyi 👋
+
+I am an Information Technology student at Georgia Gwinnett College concentrating in Systems and Cybersecurity. I am interested in cybersecurity, data center operations, networking, Linux administration, and cloud infrastructure.
+
+## About Me
+
+- 🎓 Pursuing a B.S. in Information Technology – Systems & Cybersecurity
+- 🏫 Georgia Gwinnett College
+- 📅 Expected graduation: May 2027
+- 🔐 Interested in cybersecurity, networking, Linux, and data center operations
+- 💻 Experience with Java, Python, SQL, Linux, Windows, Git, and GitHub
+- 📚 Currently expanding my knowledge of system administration and information security
+- 🎯 Working toward a career in cybersecurity or data center infrastructure
+
+## Featured Projects
+
+### AI-Powered Intrusion Detection System
+
+A Linux-based security monitoring project that uses OpenCanary, Python, geolocation data, and a locally running AI model to analyze suspicious login attempts and generate incident reports.
+
+**Technologies:** Python, Kali Linux, OpenCanary, Ollama, JSON, Watchdog, REST APIs
+
+[View the project](PASTE-INTRUSION-PROJECT-URL-HERE)
+
+### JavaFX Notepad Application
+
+A desktop text editor created with Java and JavaFX. The application includes file opening and saving, text editing, word counting, and drawing functionality.
+
+**Technologies:** Java, JavaFX, IntelliJ IDEA
+
+[View the project](PASTE-NOTEPAD-URL-HERE)
+
+### Home Network Lab
+
+A networking project focused on device connectivity, IP addressing, network configuration, troubleshooting, and common network services.
+
+**Technologies:** TCP/IP, DNS, DHCP, LAN/WAN, Network Troubleshooting
+
+[View the project](PASTE-NETWORK-PROJECT-URL-HERE)
+
+## Technical Skills
+
+### Programming
+
+- Java
+- Python
+- SQL
+- JavaFX
+- Object-Oriented Programming
+
+### Cybersecurity and Networking
+
+- TCP/IP
+- DNS and DHCP
+- LAN/WAN fundamentals
+- Wireshark
+- Linux security
+- Access control
+- CIA triad
+- Security monitoring
+
+### Systems and Tools
+
+- Kali Linux
+- Windows
+- IntelliJ IDEA
+- Git and GitHub
+- MySQL Workbench
+- Ollama
+- OpenCanary
+
+## Certifications
+
+- Certiport IT Specialist – Networking
+- Certiport IT Specialist - Network Security
+- TestOut IT Fundamentals Pro
+- Microsoft Office Specialist – Word
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ktakyi)
+- [Portfolio Website](https://ktakyi.github.io)
+- Email: takyi236@gmail.com
