@@ -29,6 +29,14 @@ A networking project focused on device connectivity, IP addressing, network conf
 
 **Technologies:** TCP/IP, DNS, DHCP, LAN/WAN, Network Troubleshooting
 
+## 🍕 Java Pizza Builder
+
+A Java application that simulates a customizable pizza ordering system using object-oriented programming concepts. The project emphasizes clean class design, inheritance, polymorphism, and reusable components to model real-world objects and user selections.
+
+**Technologies:** Java, Object-Oriented Programming (OOP), Inheritance, Polymorphism, IntelliJ IDEA
+
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/ktakyi/java-pizza-builder)
+
 
 ## Technical Skills
 
