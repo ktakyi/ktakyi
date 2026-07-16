@@ -14,16 +14,16 @@ I am an Information Technology student at Georgia Gwinnett College concentrating
 
 ## Featured Projects
 
-### AI-Powered Intrusion Detection System
+## 🛡️ AI-Powered Intrusion Detection System
 
 A Linux-based security monitoring project that uses OpenCanary, Python, geolocation data, and a locally running AI model to analyze suspicious login attempts and generate incident reports.
 
 **Technologies:** Python, Kali Linux, OpenCanary, Ollama, JSON, Watchdog, REST APIs
 
-[View the project](https://github.com/ktakyi/ai-intrusion-detection)
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/ktakyi/ai-intrusion-detection)
 
 
-### Home Network Lab
+## 🌐 Home Network Lab
 
 A networking project focused on device connectivity, IP addressing, network configuration, troubleshooting, and common network services.
 
