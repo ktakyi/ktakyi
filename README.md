@@ -1,6 +1,6 @@
 # Hi, I'm Kwaku Takyi 👋
 
-I am an Information Technology student at Georgia Gwinnett College concentrating in Systems and Cybersecurity. I am interested in cybersecurity, data center operations, networking, Linux administration, and cloud infrastructure.
+I am an Information Technology student specializing in Systems & Cybersecurity with a passion for cybersecurity, Linux, networking, automation, and developing secure, reliable IT solutions through hands-on projects.
 
 ## About Me
 
