@@ -7,10 +7,10 @@ I am an Information Technology student specializing in Systems & Cybersecurity w
 - 🎓 Pursuing a B.S. in Information Technology – Systems & Cybersecurity
 - 🏫 Georgia Gwinnett College
 - 📅 Expected graduation: May 2027
-- 🔐 Interested in cybersecurity, networking, Linux, and data center operations
+- 🔐 Interested in cybersecurity, networking, Linux, and IT infastructure
 - 💻 Experience with Java, Python, SQL, Linux, Windows, Git, and GitHub
 - 📚 Currently expanding my knowledge of system administration and information security
-- 🎯 Working toward a career in cybersecurity or data center infrastructure
+- 🎯 Working towards a career in cybersecurity
 
 ## Featured Projects
 
